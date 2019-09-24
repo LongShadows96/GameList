@@ -1,0 +1,14 @@
+{
+   "arrayGame":[
+      {
+         "nombre":"Pokemon",
+         "texto":"Video Juego de Rol y RPG",
+         "image":"https://areajugones.sport.es/wp-content/uploads/2018/11/pokemon-lets-go-cover.jpg"
+      },
+      {
+         "nombre":"Zelda",
+         "texto":"Juego de Zelda para la Nintendo Switch",
+         "image":"https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_TheLegendOfZeldaLinksAwakening_image1600w.jpg"
+      }
+   ]
+}
