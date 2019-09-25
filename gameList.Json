@@ -16,7 +16,32 @@
       },
      {
          "nombre":"Mario Kars",
-         "texto":"Juego PS4 y Xbox One",
+         "texto":"VideoJuego para Consolas de Nintendo",
+         "image":"https://i.blogs.es/cceb79/mario-kart-tour/450_1000.jpg"
+      },
+     {
+         "nombre":"The Witcher 3",
+         "texto":"Juego PS4 y Xbox One ademas de PC",
+         "image":"https://images.gog.com/60c724a052275a049d857d53957dc38e9347742f52372bb956d992b43efa8fb5_product_card_v2_mobile_slider_639.jpg"
+      },
+     {
+         "nombre":"CAstlevania",
+         "texto":"Juego de aventura y plataforma",
+         "image":"https://as.com/meristation/imagenes/2018/10/08/noticias/1539012349_086074_1539012423_noticia_normal.jpg"
+      },
+     {
+         "nombre":"CUP HEAD",
+         "texto":"Juego de plataformas con tematica Cartoon",
+         "image":"https://i.ytimg.com/vi/KAriv93tzI0/maxresdefault.jpg"
+      },
+     {
+         "nombre":"Monster Hunter",
+         "texto":"Juego PS4 y Xbox One ademas de consolas de Nintendo",
+         "image":"https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_TheLegendOfZeldaLinksAwakening_image1600w.jpg"
+      },
+     {
+         "nombre":"Sekiro",
+         "texto":"Juego PS4 y Xbox One tipo Dark Soul",
          "image":"https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_TheLegendOfZeldaLinksAwakening_image1600w.jpg"
       }
 ]
