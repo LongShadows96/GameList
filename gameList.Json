@@ -43,5 +43,10 @@
          "nombre":"Sekiro",
          "texto":"Juego PS4 y Xbox One tipo Dark Soul",
          "image":"https://irrompibles.net/irrwp/wp-content/uploads/2019/04/Sekiro-header.jpg"
+      },
+     {
+         "nombre":"Borderland 3",
+         "texto":"Video juego nuevo para las consolas nuevas",
+         "image":"https://www.slantmagazine.com/wp-content/uploads/2019/09/borderlands3.jpg"
       }
 ]
